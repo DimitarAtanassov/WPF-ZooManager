@@ -360,7 +360,7 @@ namespace WPF_ZooManager
             finally
             {
                 sqlConnection.Close();
-                ShowZoos();
+                ShowAllAnimals();
             }
         }
     }
