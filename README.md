@@ -83,3 +83,7 @@ The main functionalities of the application are implemented in `MainWindow.xaml.
 - **DeleteAnimal_Click()**: Deletes the selected animal.
 - **AddAnimalToZoo_Click()**: Associates an animal with the selected zoo.
 - **RemoveAnimal_Click()**: Disassociates an animal from the selected zoo.
+
+
+## Screenshot of Zoo Manager
+![Zoo Manager Screenshot](https://github.com/DimitarAtanassov/WPF-ZooManager/blob/master/ZooManagerSS.png)
